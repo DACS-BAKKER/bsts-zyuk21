@@ -1,8 +1,9 @@
 Files:
 21Questions
+- DO NOT MOVE ANYTHING IN THIS FOLDER
+- Used to package and run the executable 21Questions.jar
 
 21Questions.jar - 21 Questions game executable (open to play game)
-- please DO NOT MOVE this file as it has to access the directory of the Data.txt and Score.txt
 
 source
 	QuestionNode.java - Node for 21 Questions game
@@ -23,4 +24,9 @@ replacements
 	Score.txt
 
 BinarySearchTree.java - Generic Binary Search Tree
+QuestionNode.java - Node for 21 Questions game class
+QuestionTree.java - Binary tree for 21 Questions game class
+TwentyOneQuestion.java - 21 Questions game class
 
+Notes:
+If you want to edit the code, please use the .java files not in the 21Questions folder as those cannot be changed
