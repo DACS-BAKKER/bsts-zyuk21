@@ -1,0 +1,27 @@
+Q:Is it an animal?
+Q:Does it walk?
+Q:Does it have two legs?
+Q:Can it swim?
+A:duck
+A:chicken
+Q:Is it domestic?
+A:dog
+A:elephant
+A:fish
+Q:Is it electronic?
+Q:Can you type on it?
+A:computer
+Q:Can it tell time?
+A:clock
+A:charger
+Q:Does it store liquid?
+A:water bottle
+Q:Is it used to be written on?
+A:paper
+Q:Is it transparent?
+A:window
+Q:Does it store things?
+A:box
+Q:
+A:
+A:pen
