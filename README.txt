@@ -1,9 +1,9 @@
 Files:
 21Questions
 - DO NOT MOVE ANYTHING IN THIS FOLDER
-- Used to package and run the executable 21Questions.jar
+- Used to package and run the executable TwentyOneQuestions.jar
 
-21Questions.jar - 21 Questions game executable (open to play game)
+TwentyOneQuestions.jar - 21 Questions game executable (open to play game)
 
 source
 	QuestionNode.java - Node for 21 Questions game
